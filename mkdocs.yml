@@ -4,4 +4,4 @@ theme:
   name: material
 
 extra_css:
-  - overrides/custom.css
+  - custom.css
