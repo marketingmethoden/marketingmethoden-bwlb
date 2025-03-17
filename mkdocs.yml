@@ -3,5 +3,6 @@ site_url: https://mydomain.org/mysite
 theme:
   name: material
 
-features:
-    - toc.integrate 
+  features:
+    - navigation.sections
+    - toc.integrate: false  # Deaktiviert das automatische Inhaltsverzeichnis
