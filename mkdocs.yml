@@ -5,3 +5,6 @@ theme:
 
 extra_css:
   - custom.css
+
+plugins:
+  - search: false
