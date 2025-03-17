@@ -39,5 +39,5 @@ Bewertung in der Gruppe: Laborübungen in Gruppen im Flipped Classroom (20 % der
 Jede Gruppe erhält pro Analysetyp eine Aufgabenstellung zu einem praxisorientiertem Datensatz, die im Unterricht gelöst und im Anschluss abgegeben wird.
 
 ## Kontakt
-Tina Neureiter, MA: tina.neureiter@fh-salzburg.ac.at
+Tina Neureiter, MA: tina.neureiter@fh-salzburg.ac.at  
 FH-Prof. Mag. Dr. Robert Zniva: robert.zniva@fh-salzburg.ac.at
