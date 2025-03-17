@@ -2,6 +2,8 @@
 
 Hier finden Sie alle Lernvideos und den dazugehörigen Datensatz zum Thema Korrelation und Regression.
 
+[📥 SPSS-Datensatz herunterladen](Datensatz Korrelation und Regression.sav)
+
 ## Einführung und Test auf Normalverteilung
 <iframe width="560" height="315" 
     src="https://www.youtube.com/embed/2uYY6ARFhCk" 
