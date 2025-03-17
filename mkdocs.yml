@@ -5,4 +5,4 @@ theme:
 
 markdown_extensions:
   - toc:
-      permalink: false
+      permalink: true
