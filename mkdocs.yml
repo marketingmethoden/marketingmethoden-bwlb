@@ -2,9 +2,7 @@ site_name: Marketingmethoden
 site_url: https://mydomain.org/mysite
 theme:
   name: material
+  language: de
 
 extra_css:
   - custom.css
-
-plugins:
-  - some-other-plugin
