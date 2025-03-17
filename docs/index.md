@@ -35,7 +35,10 @@ Selbstständige Laborübungen als Blended-Learning-Aufgaben (20 % der Note)
 Die Studierenden erhalten pro Analysetyp eine Aufgabenstellung, die mit einem Übungsdatensatz selbstständig bis zur nächsten Einheit ausgearbeitet und abgegeben werden muss.
 
 Klausur am Ende der Lehrveranstaltung (60 % der Note)  
-Bewertung in der Gruppe: Laborübungen in Gruppen im Flipped Classroom (20 % der Note)
+
+Bewertung in der Gruppe:  
+
+Laborübungen in Gruppen im Flipped Classroom (20 % der Note)  
 Jede Gruppe erhält pro Analysetyp eine Aufgabenstellung zu einem praxisorientiertem Datensatz, die im Unterricht gelöst und im Anschluss abgegeben wird.
 
 ## Kontakt
