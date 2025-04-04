@@ -4,5 +4,10 @@ theme:
   name: material
   language: de
 
+nav:
+- Informationen zur LV: index.md
+- Korrelation & Regression: regression.md
+- t-Test & Varianzanalyse: gruppenvergleiche.md
+
 extra_css:
   - custom.css
