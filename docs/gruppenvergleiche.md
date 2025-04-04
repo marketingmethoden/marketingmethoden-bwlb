@@ -1,6 +1,6 @@
 # t-Test & Varianzanalyse
 
-Hier finden Sie alle Lernvideos und den dazugehörigen Datensatz zum Thema Gruppenvergleiche mittels t-Test und Varianzanalyse.
+Hier finden Sie alle Lernvideos und die dazugehörigen Datensätze zum Thema Gruppenvergleiche mittels t-Test und Varianzanalyse.
 
 ## Einführung und t-Test mit abhängigen Stichproben
 <iframe width="560" height="315" 
