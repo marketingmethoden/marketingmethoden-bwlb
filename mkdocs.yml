@@ -8,6 +8,7 @@ nav:
 - Informationen zur LV: index.md
 - Korrelation & Regression: regression.md
 - t-Test & Varianzanalyse: gruppenvergleiche.md
+- Mediation: mediation.md
 
 extra_css:
   - custom.css
