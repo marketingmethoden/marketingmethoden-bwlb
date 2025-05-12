@@ -9,6 +9,7 @@ nav:
 - Korrelation & Regression: regression.md
 - t-Test & Varianzanalyse: gruppenvergleiche.md
 - Mediation: mediation.md
+- Moderation: moderation.md
 
 extra_css:
   - custom.css
